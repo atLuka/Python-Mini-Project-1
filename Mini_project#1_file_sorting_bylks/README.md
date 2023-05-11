@@ -27,4 +27,4 @@ Limitations
 
 Auteur
 
-Ce programme a été développé par Lks.
+Ce programme a été développé par atLuka en classe de terminale 
